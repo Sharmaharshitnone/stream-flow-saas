@@ -1,0 +1,5 @@
+aws_region      = "us-east-1"
+environment     = "dev"
+project_name    = "streamflow"
+frontend_domain = "http://localhost:3000"
+alert_email     = ""
